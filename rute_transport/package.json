@@ -1,0 +1,20 @@
+{
+  "name": "rute_transport",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.6"
+  },
+  "dependencies": {
+    "ol": "latest"
+  },
+  "description": "This example demonstrates how the `ol` package can be used with [Vite](https://vitejs.dev/).",
+  "main": "main.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
